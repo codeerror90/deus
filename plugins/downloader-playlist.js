@@ -1,4 +1,4 @@
-/* Created by https://github.com/BrunoSobrino */
+/* Created by https://github.com/codeerror90/deus */
        /* Diseño by Yameko-Bot V1*/
 
 import yts from "yt-search"
@@ -32,8 +32,8 @@ orderMessage: {
 itemCount: 9999999,
 status: 1,
 surface: 1,
-message: '𝑇ℎ𝑒 𝑀𝑦𝑠𝑡𝑖𝑐 - 𝐵𝑜𝑡 - 𝑀𝐷', 
-orderTitle: `Mystic`,
+message: '𝙃𝙚𝙧𝙢𝙚𝙨-𝘽𝙤𝙩', 
+orderTitle: `hermes`,
 thumbnail: imagen1, 
 sellerJid: '0@s.whatsapp.net'}}}}
 for (let i of search.all) {
