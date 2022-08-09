@@ -7,7 +7,7 @@ import fs from 'fs'
 global.owner = [
   ['5218333659697', '👑 Hermes - Creador 👑', true]  
 ] // Cambia los numeros que quieras
-global.suittag = ['5219993404349'] 
+global.suittag = ['5218333659697'] 
 global.mods = [] 
 global.prems = [] 
 
