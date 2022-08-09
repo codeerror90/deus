@@ -28,7 +28,7 @@ let text = `
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/
-> cd TheMystic-Bot-MD
+> cd Hermes-Bot-MD
 > yarn install 
 > npm install
 > npm update
