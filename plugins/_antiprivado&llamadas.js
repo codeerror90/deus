@@ -1,5 +1,3 @@
-@@ -0,0 +1,24 @@
-
 let handler = m => m
 handler.before = async function (m, { conn, isOwner, isROwner}) 
 if (m.chat.endsWith('broadcast') || m.key.remoteJid.endsWith('broadcast')) return
