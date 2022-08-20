@@ -16,5 +16,5 @@ m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰�
 }}
 handler.help = ['play.1' , 'play.2'].map(v => v + ' <texto>')
 handler.tags = ['downloader']
-handler.command = ['play','play.1', 'play.2']
+handler.command = ['play.1', 'play.2']
 export default handler
