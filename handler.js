@@ -452,10 +452,7 @@ export async function handler(chatUpdate) {
         if (opts['autoread'])
             await this.readMessages([m.key])
         
-        if (!m.fromMem && m.text.match(/(Hermes|@5218333659697|bot|Dioses|hermes|hermes - bot|hermes-bot)/gi)) {
-        let emot = pickRandom(["🎃", "❤", "😘", "😍", "💕", "😎", "🙌", "⭐", "👻", "🔥"])
-        this.sendMessage(m.chat, { react: { text: emot, key: m.key }})}
-        function pickRandom(list) { return list[Math.floor(Math.random() * list.length)]}
+
     }
 }
 
