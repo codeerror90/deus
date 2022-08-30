@@ -10,5 +10,5 @@ handler.help = ['hidetag']
 handler.tags = ['group']
 handler.command = /^(hidetag|notificar)$/i
 handler.group = true
-handler.admin = true
+handler.admin = false
 export default handler
